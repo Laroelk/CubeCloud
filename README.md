@@ -1,2 +1,2 @@
 # wiki
-Oficjalna baza wiedzy hostingu Hostyard!
+Oficjalna baza wiedzy hostingu CubeCloud 

@@ -1,0 +1,33 @@
+input: .
+output: .retype
+url: wiki.hostyard.eu
+favicon: /static/favicon.ico
+meta:
+  title: " - Hostyard"
+branding:
+  title: Hostyard
+  label: Wiki v0.4
+links:
+- text: Strona główna
+  link: https://hostyard.eu/
+  target: blank
+  icon: home
+- text: Panel klienta
+  link: https://hostyard.eu/clientarea.php/
+  target: blank
+  icon: command-palette
+- text: Discord
+  link: https://dc.hostyard.eu/
+  target: blank
+  icon: comment-discussion
+exclude:
+  - "README.md"
+edit:
+  repo: "https://github.com/hostyard/wiki"
+  branch: main
+  label:  Edytuj na GitHub
+search:
+  noResultsFoundMsg: Nie znaleziono.
+  placeholder: Szukaj
+footer:
+  copyright: "Hostyard® &copy; 2021 - {{ year }}. Wszelkie prawa zastrzeżone."
